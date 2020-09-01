@@ -1,5 +1,5 @@
 Metadata-Version: 1.1
-Name: Geohash
+Name: geohash
 Version: 1.0
 Summary: Module to decode/encode Geohashes to/from latitude and longitude.  See http://en.wikipedia.org/wiki/Geohash
 Home-page: https://github.com/vinsci/geohash/

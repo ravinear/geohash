@@ -20,7 +20,7 @@ License along with Geohash.  If not, see
 """
 from setuptools import setup, find_packages
 setup(
-    name = "Geohash",
+    name = "geohash",
     version = "1.0",
     packages = find_packages(),
 
@@ -41,5 +41,5 @@ setup(
     license = "GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.",
     keywords = "Geohash GIS latitude longitude encode decode Galileo GPS WGS84 coordinates geotagging",
     url = "https://github.com/vinsci/geohash/",   # project home page, if any
-    download_url = "https://github.com/vinsci/geohash/archive/master.zip"
+    download_url = "https://github.com/ravinear/geohash/archive/master.zip"
 )
