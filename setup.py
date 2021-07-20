@@ -40,6 +40,6 @@ setup(
     long_description = "This module provides functions to decode and encode Geohashes to and from latitude and longitude coordinates.",
     license = "GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.",
     keywords = "Geohash GIS latitude longitude encode decode Galileo GPS WGS84 coordinates geotagging",
-    url = "https://github.com/vinsci/geohash/",   # project home page, if any
-    download_url = "https://github.com/ravinear/geohash/archive/master.zip"
+    url = "https://github.com/ravinear/geohash/",
+    zip_safe=False
 )
